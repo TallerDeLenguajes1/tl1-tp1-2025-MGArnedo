@@ -22,3 +22,6 @@ Release/
 *.bin
 *.elf
 *.map
+
+# Ignorar archivo ignorado.txt
+ignorado.txt

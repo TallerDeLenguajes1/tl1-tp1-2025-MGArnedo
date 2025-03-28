@@ -1,0 +1,24 @@
+# Ignorar archivos de compilación
+*.o          # Archivos de objeto
+*.out        # Archivos ejecutables
+*.exe        # Archivos ejecutables en Windows
+
+# Ignorar carpetas de compilación
+/build/
+Debug/
+Release/
+
+# Ignorar archivos temporales creados por editores
+*.swp        # Archivos temporales de Vim
+*.tmp        # Archivos temporales generales
+*.~          # Archivos de respaldo
+
+# Ignorar archivos de configuración
+*.log        # Archivos de registro
+*.bak        # Archivos de respaldo
+*.cfg        # Archivos de configuración temporales
+
+# Ignorar binarios y otros archivos generados
+*.bin
+*.elf
+*.map
